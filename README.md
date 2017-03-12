@@ -128,7 +128,7 @@ O padrão foi utilizado para resolver o problema de .....
     b) justifique!
 
 
-###3.2	Modelo Lógico<br>
+###3.2	Modelo LÓGICO<br>
 ###3.3	MODELO FÍSICO<br>
 ###3.4	INSERT APLICADO NAS TABELAS DO BANCO DE DADOS<br>
 ####3.4.1 DETALHAMENTO DAS INFORMAÇÕES
