@@ -6,6 +6,11 @@ Trabalho desenvolvido durante a disciplina de BD
         b) Uma expansão de sistema/projeto previamente desenvolvido em disciplinas anteriores 
         (ex: Expansão dos módulos do sistema desenvolvidos em BD1 - incremento mínimo de 50% nos 
         requisitos/complexidade)
+        c) Nas avaliações parciais do professor, o grupo deverá anotar todas as observaçoes que forem feitas pelo professor 
+        e pelo proprio grupo, enviar uma cópia das atividades por e-mail para o grupo e postar imediatamente estas observações
+        como tarefas a serem realizadas como tarefas por meio do gerenciador de projetos do git.
+        d) Todas as tarefas devem ser realizadas e deve-se atentar para distribuição igualitária de atividades levando-se 
+        em consideração o peso destas.
     
     OBS Importantes: 
         a) Os projetos/sistemas propostos serão validados pelo professor e pela turma
@@ -15,6 +20,8 @@ Trabalho desenvolvido durante a disciplina de BD
         a esta devem ser obtidas no prazo de até 15 dias apos aprovação da proposta do trabalho 
         (caso contrário, nova proposta deverá ser apresentada a turma implicando logicamente em um prazo 
         mais curto para realização das atividades e conclusão do trabalho)
+        
+   
     
 DICA: 
     O kickstart normalmente lança inovaçôes em termos de Sofwares e Apps, portanto pode ser interessante 
